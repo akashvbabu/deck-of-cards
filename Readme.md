@@ -13,7 +13,7 @@ The deck provides 3 operations:
 * Dealing a card
 * Peeking the top card
 
-To run tests
+To run tests (requires java8+ and maven installed)
 ```java
 mvn clean verify
 ```
