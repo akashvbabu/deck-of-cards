@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/akashvbabu/deck-of-cards.svg?branch=master)](https://travis-ci.org/akashvbabu/deck-of-cards)
+
 ### A java application to deal a poker style deck of cards
 
 Deck has Four Suites: HEARTS, DIAMONDS, CLUBS, SPADES.
